@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-﻿added by cloudguru
-=======
-﻿added by linuxr
->>>>>>> 4914971de4505f115d2ed290c5ece0d64945ce0c
+added by cloudguru
+added by linuxr
